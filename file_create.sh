@@ -11,6 +11,6 @@ sleep 0.5
 echo "$file is ready"
 echo hello > $file
 sleep 0.5
-echo "see file:"
+echo "see inside of file:"
 cat $file
 fi
